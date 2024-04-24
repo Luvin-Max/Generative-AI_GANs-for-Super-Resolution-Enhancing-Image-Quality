@@ -1,0 +1,2 @@
+# Generative-AI_GANs-for-Super-Resolution-Enhancing-Image-Quality
+GANs (Generative Adversarial Networks) for super-resolution is an exciting project that involves training a GAN to enhance the quality of low-resolution images, effectively increasing their resolution. Here's a basic outline of how you can implement such a project in Python using popular deep learning libraries like TensorFlow or PyTorch
